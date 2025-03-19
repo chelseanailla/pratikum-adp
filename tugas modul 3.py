@@ -1,4 +1,4 @@
-print('===KALKULATOR SEDERHANA===')
+#print('===KALKULATOR SEDERHANA===')
 
 while True :
     angka1 = float(input('Masukkan angka pertama: '))
